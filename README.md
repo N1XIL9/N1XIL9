@@ -44,11 +44,22 @@ I'm a Music Composer and Full Stack Developer from Italy 🇮🇹.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="Sass" width="40" height="40"/>&nbsp;
- 
- 
- 
 </div>
   
+  
+<hr>
+
+<div align="center">
+<h4>:fire: My Stats : </h4>
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=N1XIL9&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1XIL9&layout=compact&theme=vision-friendly-dark)](https://github.com/N1XIL9/github-readme-stats)
+
+</div>
 <!---
 N1XIL9/N1XIL9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
