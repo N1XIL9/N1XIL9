@@ -27,14 +27,14 @@ I'm a Music Composer and Full Stack Developer from Italy 🇮🇹.
 - :seedling: Exploring Technical and Music Content Writing.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NicolaLerra-blue?style=flat&logo=Linkedin&logoColor=white)](https://it.linkedin.com/in/nicola-lerra?trk=profile-badge)
-
-<div align="center">
+<br>
+<div>
 <h4> :hammer_and_wrench: Languages and Tools : </h4>
 </div>
 
 
 
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="hmlt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="Js" width="40" height="40"/>&nbsp;
@@ -49,13 +49,13 @@ I'm a Music Composer and Full Stack Developer from Italy 🇮🇹.
   
 <hr>
 
-<div align="center">
+<div>
 <h4>:fire: My Stats : </h4>
 </div>
 
-<div align="center">
+<div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=N1XIL9&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=N1XIL9)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1XIL9&layout=compact&theme=vision-friendly-dark)](https://github.com/N1XIL9/github-readme-stats)
 
