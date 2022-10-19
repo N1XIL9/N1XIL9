@@ -1,4 +1,8 @@
 <div align="center">
+  <h1>🖖 Hi, I'm Nicola Lerra</h1>
+
+
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <div id="badges">
     <a href="https://it.linkedin.com/in/nicola-lerra?trk=profile-badge">
@@ -13,7 +17,7 @@
   </div>
   <br>
  :man_technologist: About Me : <br> <br>
-I'm a Music Composer and Full Stack Developer from Italy 🇮🇹.
+  <strong>I'm a Music Composer and Full Stack Developer from Italy 🇮🇹.</strong> <br> <br>
 </div>
 
 
@@ -21,7 +25,8 @@ I'm a Music Composer and Full Stack Developer from Italy 🇮🇹.
 
 
 
-
+<div align="left">
+  
 - :telescope: I’m working as a Music Composer and Web Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical and Music Content Writing.
