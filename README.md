@@ -59,10 +59,8 @@
 </div>
 
 <div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=N1XIL9)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1XIL9&layout=compact&theme=vision-friendly-dark)](https://github.com/N1XIL9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1XIL9&layout=compact&theme=vision-friendly-light)](https://github.com/N1XIL9/github-readme-stats)
 
 </div>
 <!---
