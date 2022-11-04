@@ -1,4 +1,8 @@
 <div align="center">
+
+![snake gif](https://github.com/N1XIL9/N1XIL9/blob/output/github-contribution-grid-snake.gif)
+
+
   <h1>🖖 Hi, I'm Nicola Lerra</h1>
 
 
