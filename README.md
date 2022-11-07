@@ -9,7 +9,7 @@
 <div align="center">
  
   <div id="badges">
-    <a href="https://it.linkedin.com/in/nicola-lerra?trk=profile-badge">
+    <a href="https://it.linkedin.com/in/nicola-lerra?trk=profile-badge" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://open.spotify.com/artist/2BqtjD2UOOyTm4KUlAyKfJ?si=MfKrGUPcSvSZsOs-k-_IiA">
