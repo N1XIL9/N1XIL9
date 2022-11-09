@@ -1,4 +1,7 @@
+ ![](https://komarev.com/ghpvc/?username=N1XIL9&color=blue)
+ 
 <div align="center">
+ 
 
 ![snake gif](https://github.com/N1XIL9/N1XIL9/blob/output/github-contribution-grid-snake.gif)
 
