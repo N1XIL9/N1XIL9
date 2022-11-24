@@ -38,7 +38,6 @@
 
 - :seedling: Exploring music and technical content writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NicolaLerra-blue?style=flat&logo=Linkedin&logoColor=white)](https://it.linkedin.com/in/nicola-lerra?trk=profile-badge)
 <br>
 <div>
 <h4> :hammer_and_wrench: Languages and Tools : </h4>
