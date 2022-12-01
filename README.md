@@ -34,9 +34,9 @@
 
 <div align="left">
   
-- :telescope: I’m working as a Music Composer and Web Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring music and technical content writing.
+- :seedling: Exploring technical content writing.
 
 <br>
 <div>
