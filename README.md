@@ -34,7 +34,7 @@
 
 <div align="left">
   
-- :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Full-Stack Developer. I like to develop intuitive and easy-to-use interfaces by taking special care of UX/UI with particular attention and passion.
 
 - :seedling: Exploring technical content writing.
 
