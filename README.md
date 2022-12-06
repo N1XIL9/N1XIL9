@@ -24,7 +24,7 @@
   </div>
   <br>
  :man_technologist: About Me : <br> <br>
-  <strong>I'm a Full Stack Developer from Italy 🇮🇹.</strong> <br> <br>
+  <strong>I'm a Full-Stack Developer from Italy 🇮🇹.</strong> <br> <br>
 </div>
 
 
