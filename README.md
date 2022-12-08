@@ -23,7 +23,7 @@
    </a>
   </div>
   <br>
- :man_technologist: About Me : <br> <br>
+ :man_technologist: ABOUT ME <br> <br>
   <strong>I'm a Junior Full-Stack Developer from Italy 🇮🇹.</strong> <br> <br>
 </div>
 
@@ -38,13 +38,13 @@
 
 
 <br>
-<div>
-<h4> :hammer_and_wrench: Languages and Tools : </h4>
+<div align="center">
+<h4> :hammer_and_wrench: LANGUAGES AND TOOLS </h4>
 </div>
 
 
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="hmlt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="Js" width="40" height="40"/>&nbsp;
@@ -62,7 +62,7 @@
 <hr>
 
 <div>
-<h4>:fire: My Stats : </h4>
+<h4>:fire: MY STATS </h4>
 </div>
 
 <div>
