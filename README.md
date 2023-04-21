@@ -39,7 +39,7 @@
 
 <div align="center">
 
-I have acquired a solid knowledge of the main languages and frameworks used in the development of web applications, such as HTML, CSS, JavaScript, TypeScript, Angular. Over the past few months, I have decided to focus my attention on specializing in the platform. NET. I started working on real projects using . NET Framework, becoming familiar with ASP.NET, MVC, Entity Framework, SQL server, JQuery.
+I have acquired a knowledge of the main languages and frameworks used in the development of web applications, such as HTML, CSS, JavaScript, TypeScript, Angular. Over the past few months, I have decided to focus my attention on specializing in the platform. NET. I started working on real projects using . NET Framework, becoming familiar with ASP.NET, MVC, Entity Framework, SQL server, JQuery.
 
 My passion for technology prompted me to start my developer journey with Epicode School, a full-time advanced training course where I earned the Full-Stack Developer certification, but my life was also influenced by art and music in particular. In fact, I had the opportunity to work in the film world as a composer, creating soundtracks for trailers, short films and movies. This experience gave me a unique insight into creativity and technology, which prompted me to try to merge these two passions into my work.
 
