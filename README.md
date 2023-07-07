@@ -39,12 +39,13 @@
 
 <div align="center">
 
-I have acquired a knowledge of the main languages and frameworks used in the development of web applications, such as HTML, CSS, JavaScript, TypeScript, Angular. Over the past few months, I have decided to focus my attention on specializing in the platform. NET. I started working on real projects using . NET Framework, becoming familiar with ASP.NET, MVC, Entity Framework, SQL server, JQuery.
+I’m a Music & Film Composer and passionate Junior Full Stack Developer with a keen interest in technology.
 
-My passion for technology prompted me to start my developer journey with Epicode School, a full-time advanced training course where I earned the Full-Stack Developer certification, but my life was also influenced by art and music in particular. In fact, I had the opportunity to work in the film world as a composer, creating soundtracks for trailers, short films and movies. This experience gave me a unique insight into creativity and technology, which prompted me to try to merge these two passions into my work.
+Over time, I have developed a solid understanding of the main programming languages and frameworks used in web application development, including HTML, CSS, JavaScript, TypeScript, and Angular. Recently, I have completed an advanced training course and obtained certification as a Full-Stack developer with a specialization in .NET. Through real-world projects utilizing .NET Framework, I have gained familiarity with ASP.NET, MVC, Entity Framework, JQuery, and SQL Server.
 
-If you are looking for a junior Full Stack Developer with specific skills in . NET, please feel free to contact me. I am available for an interview, and I am sure that together we can carry out exciting and successful projects!
+My life has been shaped by art, particularly music. As a composer, I have the opportunity to work in the film industry, creating soundtracks for trailers, short films, and movies. This experience has provided me with a unique perspective on creativity and technology, and has motivated me to merge these two passions in my work.
 
+If you are seeking a Music Composer or a Junior Full Stack Developer with specific .NET skills, please do not hesitate to contact me. We can create exciting and successful projects!
 <br>
  <div align="left"> 
   
